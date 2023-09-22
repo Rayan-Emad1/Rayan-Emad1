@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rayan Emad</h1>
 <h3 align="center">A passionate full stack developer from Lebanon</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan-emad1&label=Profile%20views&color=0e75b6&style=flat" alt="rayan-emad1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rayan-Emad1&label=Profile%20views&color=0e75b6&style=flat" alt="rayan-emad1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayan-emad1" alt="rayan-emad1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rayan-Emad1" alt="rayan-emad1" /></a> </p>
 
 - 🔭 I’m currently working on [EcoTech](https://github.com/Rayan-Emad1/EcoTech)
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.rayan-emad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.rayan-emad1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rayan emad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan emad" height="30" width="40" /></a>
+<a href="https://dev.to/dev.Rayan-Emad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.rayan-emad1" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rayan-emad-2063a7239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan emad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
