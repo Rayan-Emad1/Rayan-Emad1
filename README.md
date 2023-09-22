@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Rayan Emad" title="👋 Hi there! I'm Rayan Emad"/>](https://raymond.li/)
+👋 Hi there! I'm Rayan Emad" title="👋 Hi there! I'm Rayan Emad
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
 
