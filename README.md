@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rayan Emad</h1>
+<h1 align="center">Hi :owl:, I'm Rayan Emad</h1>
 <h3 align="center">A passionate full stack developer from Lebanon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rayan-Emad1&label=Profile%20views&color=0e75b6&style=flat" alt="Rayan-Emad1" /> </p>
