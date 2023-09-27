@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rayan-Emad1](https://github.com/Rayan-Emad1)
 
-- 📝 I regularly write articles on [engineering topics](engineering topics)
+- 📝 I regularly write articles on engineering topics
 
 - 💬 Ask me about **code, life, food!**
 
