@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on engineering topics
 
-- 💬 Ask me about **code, life, food!**
+- 💬 Ask me about **code, life, and food!**
 
 - 📫 How to reach me **rayanemad508@gmail.com**
 
