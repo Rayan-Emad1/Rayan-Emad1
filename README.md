@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on [EcoTech](https://github.com/Rayan-Emad1/EcoTech)
 
-- 👨‍💻 All of my projects are available at [CV](https://drive.google.com/file/d/1U2wbQWkkKQo36w_dZvyXevMBG1QC7z7A/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1U2wbQWkkKQo36w_dZvyXevMBG1QC7z7A/view?usp=sharing)
 
 - 📝 I regularly write articles on engineering topics
 
 - 💬 Ask me about **code, life, and food!**
 
 - 📫 How to reach me **rayanemad508@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U2wbQWkkKQo36w_dZvyXevMBG1QC7z7A/view?usp=sharing)
 
 - ⚡ Fun fact **In my journey, I've transformed imagination into 0s and 1s**
 
