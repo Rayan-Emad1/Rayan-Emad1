@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [EcoTech](https://github.com/Rayan-Emad1/EcoTech)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rayan-Emad1](https://github.com/Rayan-Emad1)
+- 👨‍💻 All of my projects are available at [CV](https://github.com/Rayan-Emad1](https://github.com/Rayan-Emad1)
 
 - 📝 I regularly write articles on engineering topics
 
