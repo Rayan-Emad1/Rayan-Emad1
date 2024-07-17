@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rayanemad508@gmail.com**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1CRka6fBApembAOx75oEWR30aZ4RZxEVR/edit?usp=sharing&ouid=105321241921478104915&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U2wbQWkkKQo36w_dZvyXevMBG1QC7z7A/view?usp=sharing)
 
 - ⚡ Fun fact **In my journey, I've transformed imagination into 0s and 1s**
 
